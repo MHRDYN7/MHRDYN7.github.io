@@ -1,6 +1,6 @@
 ## Mahir Daiyan's Projects
 
-#Machine Learning
+Machine Learning
 1. Stellar Classification: https://github.com/MHRDYN7/stellar-classification/blob/main/STELLAR_CLASSIFICATION.ipynb
 2. ML Models From Scratch: https://colab.research.google.com/drive/1T9K9AbhCRGIaY178Jb34g2Q7xDqY1-g9
 
