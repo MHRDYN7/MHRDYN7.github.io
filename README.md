@@ -7,7 +7,7 @@ Machine Learning
 Deep Learning
 1. [Object Classification with CIFAR-100](https://colab.research.google.com/drive/19ltCjjQ5aI_1DgOoHy4JSdLU6Ayf2SkM): [Blog on Medium](https://medium.com/@mahir15daiyan/exploration-of-the-hidden-statistics-behind-the-nobel-prize-using-pandas-8042496f0c92?source=user_profile---------0----------------------------)
 2. [Generative Adversarial Network for Anime faces](https://colab.research.google.com/drive/18n4YCW54M5bngKnZrIPQiX993k8V8Fi5) 
-3. [Audio Classification](https://colab.research.google.com/drive/1NE-uJ-Deg66KWmDf2c7RCKVB8QRZ72pX)
+3. [Audio Classification](https://colab.research.google.com/drive/1M_eofb8qzbNT6ds2psSPblwRwoXsIYvw)
 5. Gravitational Waves: coming soon (the model is competing in the kaggle competition: [G2Net Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves), and will be published after the competition ends)
 
 Quantum Computing 
