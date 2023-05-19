@@ -9,6 +9,9 @@ Deep Learning
 2. [Generative Adversarial Network for Anime faces](https://colab.research.google.com/drive/18n4YCW54M5bngKnZrIPQiX993k8V8Fi5) 
 3. [Audio Classification](https://colab.research.google.com/drive/1M_eofb8qzbNT6ds2psSPblwRwoXsIYvw)
 5. [Gravitational Waves Detection](https://colab.research.google.com/drive/1FPQIVYLw3_SxnClacjwCg1uJ7JhuM8SO?usp=sharing) (Kaggle G2NET)
+6. [Graph Neural Network (MoleculeNet data)](https://colab.research.google.com/drive/1nBIGB8EWFUMRsO_xHWfe2qRxMSbz1QHI?usp=sharing)
+
+Transformers models from scratch
 
 Quantum Computing 
 
