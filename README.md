@@ -11,7 +11,9 @@ Deep Learning
 5. [Gravitational Waves Detection](https://colab.research.google.com/drive/1FPQIVYLw3_SxnClacjwCg1uJ7JhuM8SO?usp=sharing) (Kaggle G2NET)
 6. [Graph Neural Network (MoleculeNet data)](https://colab.research.google.com/drive/1nBIGB8EWFUMRsO_xHWfe2qRxMSbz1QHI?usp=sharing)
 
-Transformers models from scratch
+Transformer model implementation from scratch
+1. [Swin Transformer](https://colab.research.google.com/drive/14tm9sq6_Mc57FCgtOsVf4osjY0nKt7rT?usp=sharing)
+2. [Vision Transformer (ViT)](https://colab.research.google.com/drive/1zrdhH1SYDyJXA4XArGjm0DTlC16000oX?usp=sharing)  
 
 Quantum Computing 
 
