@@ -13,7 +13,10 @@ Deep Learning
 
 Transformer model implementation from scratch
 1. [Swin Transformer](https://colab.research.google.com/drive/14tm9sq6_Mc57FCgtOsVf4osjY0nKt7rT?usp=sharing)
-2. [Vision Transformer (ViT)](https://colab.research.google.com/drive/1zrdhH1SYDyJXA4XArGjm0DTlC16000oX?usp=sharing)  
+2. [Vision Transformer (ViT)](https://colab.research.google.com/drive/1zrdhH1SYDyJXA4XArGjm0DTlC16000oX?usp=sharing) 
+
+Hugging Face Spaces
+1. [Face Recognition](https://huggingface.co/spaces/MHRDYN7/FaceRecognition)
 
 Quantum Computing 
 
