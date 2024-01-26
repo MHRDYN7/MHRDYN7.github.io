@@ -30,5 +30,7 @@ Data Analysis Projects
 
 Email: mdaiyan@connect.ust.hk
 
+[Github](https://github.com/MHRDYN7)
+
 [Twitter/X](https://twitter.com/MHR7DYN)
  
