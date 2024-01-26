@@ -16,7 +16,8 @@ Transformer model implementation from scratch
 2. [Vision Transformer (ViT)](https://colab.research.google.com/drive/1zrdhH1SYDyJXA4XArGjm0DTlC16000oX?usp=sharing) 
 
 Hugging Face models [(My Profile)](https://huggingface.co/MHRDYN7)
-[DinoV2 Model Implementation (Pretrained Weights)](https://huggingface.co/MHRDYN7/dinov2-base/tree/main)
+1. [DinoV2 Model Implementation (Pretrained Weights)](https://huggingface.co/MHRDYN7/dinov2-base/tree/main)
+
 Hugging Face Spaces 
 1. [Face Recognition (Using Gradio)](https://huggingface.co/spaces/MHRDYN7/FaceRecognition)
 
@@ -25,5 +26,8 @@ Quantum Computing
 Qiskit notebooks (coming soon)
 
 Data Analysis Projects
-1. [Nobel Prize](https://medium.com/@mahir15daiyan/exploration-of-the-hidden-statistics-behind-the-nobel-prize-using-pandas-8042496f0c92?source=user_profile---------0----------------------------) 
+1. [Nobel Prize](https://medium.com/@mahir15daiyan/exploration-of-the-hidden-statistics-behind-the-nobel-prize-using-pandas-8042496f0c92?source=user_profile---------0----------------------------)
+
+Email: mdaiyan@connect.ust.hk
+[Twitter/X](https://twitter.com/MHR7DYN)
  
